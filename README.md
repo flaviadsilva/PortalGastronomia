@@ -78,4 +78,4 @@ Massas · Carnes · Aves · Peixes · Vegetariano · Vegano · Sobremesas · Beb
 
 ## 📄 Licença
 
-Projeto acadêmico — uso livre para fins educacionais.
+Projeto acadêmico — uso livre para fins educacionais..
